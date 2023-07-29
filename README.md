@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm GitBugsl</h1>
 <h3 align="center">Passionate and sweet frontend developer from Turkey</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gitbugsl&label=Profile%20views&color=0e75b6&style=flat" alt="gitbugsl" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gitbugsl" alt="gitbugsl" /></a> </p>
 
 - 🔭 I’m currently working on [Kapıdan](kapidandev)
 
