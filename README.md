@@ -1,4 +1,10 @@
-<div class="Background-Color:'black'">
+<style>
+    .div-1 {
+        background-color: #000000;
+    }
+</style>
+
+<div class="div-1">
 <h1 align="center">Hi 👋, I'm GitBugsl</h1>
 <h3 align="center">Passionate and sweet frontend developer from Turkey</h3>
 
