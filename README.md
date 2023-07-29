@@ -1,5 +1,5 @@
 
-<div style="color:orange;">
+<div style="background-color:orange;">
 <h1 align="center">Hi 👋, I'm GitBugsl</h1>
 <h3 align="center">Passionate and sweet frontend developer from Turkey</h3>
 
