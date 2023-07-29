@@ -1,8 +1,10 @@
-<style>
+<html>
+    <style>
     .div-1 {
         background-color: #000000;
     }
 </style>
+</html>
 
 <div class="div-1">
 <h1 align="center">Hi 👋, I'm GitBugsl</h1>
