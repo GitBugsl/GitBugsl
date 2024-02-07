@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Hi 👋, I'm GitBugsl</h1>
+<h1 align="center">Hi 👋, İbrahim </h1>
 <h3 align="center">Passionate and sweet frontend developer from Turkey</h3>
 
 
